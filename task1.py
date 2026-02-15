@@ -50,7 +50,7 @@ print(f"The temperature is {temperature} degrees")
 # --- Snippet 9 ---
 # This should display a team name
 team_name = "Eagles"
-print f"Go {team_name}!"
+print(f"Go {team_name}!")
 
 # --- Snippet 10 ---
 # This should display a food item
