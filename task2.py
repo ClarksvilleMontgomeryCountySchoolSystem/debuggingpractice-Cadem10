@@ -20,7 +20,7 @@ pounds_str = "1.25"
 lottery_quantity_str = "5"
 
 
-def main():
+#def main():
     global candy_quantity_str, soda_quantity_str, gallons_str, pounds_str, lottery_quantity_str
     candy_quantity_str = input("How many candy bars? ")
     soda_quantity_str = input("How many sodas? ")
